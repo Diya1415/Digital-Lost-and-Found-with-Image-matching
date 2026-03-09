@@ -1,5 +1,7 @@
 # FindIt – AI Powered Lost & Found System
 
+🔗 GitHub Repository: https://github.com/Diya1415/Digital-Lost-and-Found-with-Image-matching
+
 ## Overview
 FindIt is a prototype platform that helps people locate lost or found items using **AI-powered image matching**. Users can upload photos of items they have lost or found, and the system automatically searches for visually similar objects in the database.
 
@@ -47,4 +49,54 @@ During testing, the prototype achieved approximately **80–85% accuracy** in id
 
 ## Installation and Usage
 
+## Installation and Usage
+
 1. Clone the repository
+
+git clone https://github.com/Diya1415/Digital-Lost-and-Found-with-Image-matching.git
+
+2. Navigate to the project folder
+
+cd Digital-Lost-and-Found-with-Image-matching
+
+3. Install dependencies
+
+npm install
+
+4. Run the development server
+
+npm run dev
+
+
+---
+
+## Future Improvements
+- Full database integration for persistent item storage
+- Improved image matching accuracy using advanced computer vision models
+- Real-time notification system for match alerts
+- User authentication and account management
+- Mobile-friendly UI for easier item reporting
+- Integration with campus systems for larger deployments
+
+---
+
+## Use Case
+This system is designed for **small-scale environments**, such as:
+- University campuses
+- Student hostels
+- Corporate offices
+- Housing societies
+
+These communities often face lost-and-found issues that could be solved quickly with a simple AI-assisted platform.
+
+---
+
+## Hackathon Project
+This project was developed as part of **VIBE-A-THON 2026**, where teams were challenged to rapidly prototype innovative solutions within a limited timeframe.
+
+🏆 Our team secured **3rd Prize among 50+ teams**.
+
+---
+
+## License
+This project is intended for learning and demonstration purposes.
