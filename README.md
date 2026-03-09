@@ -1,8 +1,8 @@
-FindIt – AI Powered Lost & Found System
+**FindIt – AI Powered Lost & Found System**
 
 🔗 GitHub Repository: https://github.com/Diya1415/Digital-Lost-and-Found-with-Image-matching
 
-Overview
+**Overview**
 
 FindIt is a prototype platform that helps people locate lost or found items using AI-powered image matching. Users can upload photos of items they have lost or found, and the system automatically searches for visually similar objects in the database.
 
@@ -10,7 +10,7 @@ This project was built during VIBE-A-THON: Rapid Innovation Challenge, an intra-
 
 The goal was to create a simple and practical solution for small communities such as university campuses, hostels, or housing societies, where misplaced items are common but often difficult to track.
 
-Features
+**Features**
 
 - Upload and report lost or found items with images
 - AI-based image matching to identify visually similar objects
@@ -25,13 +25,13 @@ Features
 - Database: Firebase / MongoDB (planned for persistent storage)
 - Notifications: Twilio (planned)
 
-Development Approach
+**Development Approach**
 
 This prototype was built during an 8-hour hackathon, where rapid prototyping was essential.
 
 To accelerate development, modern development tools such as v0 by Vercel were used for rapid UI generation alongside traditional coding workflows. The focus was on building a functional MVP (Minimum Viable Product) that demonstrates how AI can assist in matching lost and found items through image similarity.
 
-How It Works
+**How It Works**
 
 - Users upload an image of a lost or found item.
 - The system extracts visual features from the image.
@@ -39,7 +39,7 @@ How It Works
 - The platform displays potential matches to help users identify their items.
 - During testing, the prototype achieved approximately 80–85% accuracy in identifying visually similar objects.
 
-  Installation and Usage
+**Installation and Usage**
 
 1. Clone the repository
  git clone https://github.com/Diya1415/Digital-Lost-and-Found-with-Image-matching.git
@@ -53,7 +53,7 @@ How It Works
 4. Run the development server
  npm run dev
 
-Future Improvements
+**Future Improvements**
 
 - Full database integration for persistent item storage
 - Improved image matching accuracy using advanced computer vision models
@@ -62,7 +62,7 @@ Future Improvements
 - Mobile-friendly UI for easier item reporting
 - Integration with campus systems for larger deployments
 
-Use Case
+**Use Case**
 
 This system is designed for small-scale environments, such as:
 - University campuses
@@ -72,12 +72,12 @@ This system is designed for small-scale environments, such as:
 
 These communities often face lost-and-found issues that could be solved quickly with a simple AI-assisted platform.
 
-Hackathon Project
+**Hackathon Project**
 
 This project was developed as part of VIBE-A-THON 2026, where teams were challenged to rapidly prototype innovative solutions within a limited timeframe.
 
 🏆 Our team secured 3rd Prize among 50+ participating teams.
 
-License
+*License*
 
 This project is intended for learning and demonstration purposes.
